@@ -1,19 +1,25 @@
-### Oii eu sou o Pedro Henrique, estudande de programação!
+<img src="https://user-images.githubusercontent.com/99993116/199120476-2a30b4cc-965a-40bd-aacd-5a10f82bf53c.png" alt="User banner" />
+
+### Sobre
+- Atualmente estou estudando desenvolvimento web na Trybe
+- Apesar de ser um dev fullstack tenho mais interesse pelo backend
+- Amo jogos, series e filmes com boas histórias e narrativas
+
 
 ##
+### Estatísticas
 
 <div style="display: inline_block" align="center">
   <a href="https://github.com/Pedro-28">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedro-28&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-28&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
-  
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Pedro-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-  
+
 ##
-   
+### Habilidades
+
+<div style="display: inline_block" align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,html,css,js,ts,react,redux,docker,mysql,express,git,github,jest,linux,nodejs&theme=dark" />
+  </a>
+</div>
