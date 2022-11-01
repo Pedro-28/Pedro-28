@@ -36,3 +36,11 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Nodejs icon"/>
   <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" alt="Sequelize icon"/>
 </div>
+  
+### Contacte-me
+  
+  <div align="center">  
+    <a href="https://www.linkedin.com/in/pedro-dias-6b1084242/" target="blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn icon"/>
+    </a>
+  </div>
