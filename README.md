@@ -40,8 +40,11 @@
   
 ### Contacte-me
   
-  <div align="center">  
+  <div align="center">
+    <a href="https://pedro-dias-portfolio.vercel.app/">
+      <img src="https://img.shields.io/badge/portfolio-242424?style=for-the-badge" alt="Portfolio icon"/>
+    </a>    
     <a href="https://www.linkedin.com/in/pedro-dias-6b1084242/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn icon"/>
-    </a>
+    </a>    
   </div>
