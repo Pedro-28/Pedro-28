@@ -1,9 +1,8 @@
 <img src="https://user-images.githubusercontent.com/99993116/199120476-2a30b4cc-965a-40bd-aacd-5a10f82bf53c.png" alt="User banner" />
 
 ### Sobre:
-- Atualmente estou estudando desenvolvimento web na Trybe
-- Apesar de ser um dev fullstack tenho mais interesse pelo backend
-- Amo jogos, series e filmes com boas histórias e narrativas
+Sempre me coloquei à disposição para novas experiências. Hoje, sou um desenvolvedor full-stack apaixonado por resolver problemas e constantemente me esforço para melhorar a acessibilidade dos sites.
+Estou preparado para aplicar minhas habilidades, criando soluções que ajudam as empresas a oferecer recursos mais amplos.
 
 
 ##
