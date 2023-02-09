@@ -1,13 +1,13 @@
 <img src="https://user-images.githubusercontent.com/99993116/199120476-2a30b4cc-965a-40bd-aacd-5a10f82bf53c.png" alt="User banner" />
 
-### Sobre
+### Sobre:
 - Atualmente estou estudando desenvolvimento web na Trybe
 - Apesar de ser um dev fullstack tenho mais interesse pelo backend
 - Amo jogos, series e filmes com boas histórias e narrativas
 
 
 ##
-### Estatísticas
+### Estatísticas:
 
 <div style="display: inline_block" align="center">
   
@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" alt="Sequelize icon"/>
 </div>
   
-### Contacte-me
+### Contacte-me:
   
   <div align="center">
     <a href="https://pedro-dias-portfolio.vercel.app/">
